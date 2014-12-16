@@ -1,3 +1,5 @@
+#SMS Node Module
+
 One of the teams at the TheNextWeb hackathon this past weekend was kind enough to open source a node module to send SMS with Sinch. (shoutout to Mihir and Mikhail!) Here's an example of how to use it:
 
 ````
