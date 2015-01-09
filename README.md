@@ -1,6 +1,6 @@
 #SMS Node Module
 
-One of the teams at the TheNextWeb hackathon this past weekend was kind enough to open source a node module to send SMS with Sinch. (shoutout to Mihir and Mikhail!) Here's an example of how to use it:
+One of the teams at the TheNextWeb hackathon this past weekend was kind enough to open source a node module to send SMS with the [Sinch SMS API](https://www.sinch.com/sms-api/). (shoutout to Mihir and Mikhail!) Here's an example of how to use it:
 
 ````
 var sinchAuth = require('sinch-auth');
